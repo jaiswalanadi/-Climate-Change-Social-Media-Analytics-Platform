@@ -338,13 +338,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Open source ML/NLP libraries and frameworks
 - Material-UI and React community
 
-## 📞 Support
-
-For support and questions:
-- Create an issue on GitHub
-- Check the documentation in `/docs`
-- Review API documentation at `/docs` endpoint
-
----
-
-**Built with ❤️ for climate change awareness and data-driven insights**
